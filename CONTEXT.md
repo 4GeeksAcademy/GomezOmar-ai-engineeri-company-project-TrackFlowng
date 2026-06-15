@@ -127,3 +127,6 @@ Los retos de IA en TrackFlow incluyen clasificación de estado de productos devu
 
 _Documento interno — 4Geeks Academy · AI Engineering Track_
 _Uso exclusivo para la generación de proyectos del programa_
+_Until you add your context, keep this placeholder so the repo structure is clear._
+
+_Estas instrucciones también están disponibles en [español](./CONTEXT.es.md)._
